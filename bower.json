@@ -1,0 +1,21 @@
+{
+  "name": "phonegap-json-editor-demo",
+  "homepage": "https://github.com/flibbertigibbet/phonegap-json-editor-demo",
+  "authors": [
+    "Kathryn Killebrew <kkillebrew@azavea.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
