@@ -1,0 +1,17 @@
+{
+    "name": "phonegap-json-editor-demo",
+    "version": "0.1.0",
+    "homepage": "https://github.com/flibbertigibbet/phonegap-json-editor-demo",
+    "license": "MIT",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/flibbertigibbet/phonegap-json-editor-demo.git"
+    },
+    "dependencies": {
+        "cordova": "~4.3.1",
+        "phonegap": "~4.2.0-0.26.0"
+    },
+    "devDependiencies": {
+    }
+}
